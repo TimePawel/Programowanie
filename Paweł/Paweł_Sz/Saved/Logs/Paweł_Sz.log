@@ -1,0 +1,1447 @@
+﻿Log file open, 05/20/22 20:04:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Paweł_Sz
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.864000
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.272s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 9 4900H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.05.20-18.04.54:851][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.20-18.04.54:851][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.20-18.04.54:875][  0]LogHAL: Display: Platform has ~ 16 GB [16556589056 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.20-18.04.54:875][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2022.05.20-18.04.54:875][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.20-18.04.54:880][  0]LogInit: Computer: LAPTOP-N4IVOJU7
+[2022.05.20-18.04.54:880][  0]LogInit: User: alber
+[2022.05.20-18.04.54:880][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.05.20-18.04.54:880][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.20-18.04.54:880][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.05.20-18.04.54:880][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.20-18.04.54:880][  0]LogMemory: Process Physical Memory: 103.50 MB used, 103.50 MB peak
+[2022.05.20-18.04.54:880][  0]LogMemory: Process Virtual Memory: 91.19 MB used, 91.19 MB peak
+[2022.05.20-18.04.54:880][  0]LogMemory: Physical Memory: 9501.72 MB used,  6287.87 MB free, 15789.59 MB total
+[2022.05.20-18.04.54:880][  0]LogMemory: Virtual Memory: 4662.26 MB used,  6287.87 MB free, 134217728.00 MB total
+[2022.05.20-18.04.55:010][  0]LogInit: Using OS detected language (pl-PL).
+[2022.05.20-18.04.55:010][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.05.20-18.04.55:013][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2022.05.20-18.04.55:019][  0]LogStreaming: Display: Took  0.009s to InitEngineTextLocalization.
+[2022.05.20-18.04.55:019][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.20-18.04.55:090][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.20-18.04.55:090][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.20-18.04.55:560][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.20-18.04.55:560][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.20-18.04.55:806][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.05.20-18.04.55:806][  0]LogD3D11RHI:       5980/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.20-18.04.55:876][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.05.20-18.04.55:876][  0]LogD3D11RHI:       496/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.05.20-18.04.55:884][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.20-18.04.55:884][  0]LogD3D11RHI:       0/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.20-18.04.55:884][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.20-18.04.55:899][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.20-18.04.55:899][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.20-18.04.55:900][  0]LogWindows: EnumDisplayDevices:
+[2022.05.20-18.04.55:900][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.05.20-18.04.55:901][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.05.20-18.04.55:901][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.05.20-18.04.55:902][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.05.20-18.04.55:903][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.05.20-18.04.55:903][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.05.20-18.04.55:904][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.05.20-18.04.55:904][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.05.20-18.04.55:905][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.05.20-18.04.55:905][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.05.20-18.04.55:905][  0]LogD3D11RHI:   Driver Version: 511.69 (internal:30.0.15.1169, unified:511.69)
+[2022.05.20-18.04.55:905][  0]LogD3D11RHI:      Driver Date: 2-1-2022
+[2022.05.20-18.04.55:905][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.05.20-18.04.56:029][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.20-18.04.56:053][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.05.20-18.04.56:055][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/Pulpit/Paweł/Paweł_Sz/Intermediate/Shaders/WorkingDirectory/14356/).
+[2022.05.20-18.04.56:056][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alber/AppData/Local/Temp/UnrealShaderWorkingDir/153BDAE441407E39E26CC9B23C13DB2F/'.
+[2022.05.20-18.04.56:541][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.05.20-18.04.56:562][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.05.20-18.04.56:583][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.05.20-18.04.56:605][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.05.20-18.04.56:627][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.05.20-18.04.56:648][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.05.20-18.04.56:669][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.05.20-18.04.56:691][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.05.20-18.04.56:703][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.05.20-18.04.56:829][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.05.20-18.04.56:908][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.05.20-18.04.56:908][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.05.20-18.04.56:944][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.05.20-18.04.56:944][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.05.20-18.04.56:963][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.05.20-18.04.56:983][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.05.20-18.04.57:003][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.05.20-18.04.57:024][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.05.20-18.04.57:039][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.05.20-18.04.57:039][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.20-18.04.57:249][  0]LogXGEController: Cleaning working directory: C:/Users/alber/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.05.20-18.04.57:250][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.20-18.04.57:250][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.20-18.04.57:250][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.20-18.04.58:441][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.20-18.04.58:444][  0]LogDerivedDataCache: Loaded boot cache 0.00s 3MB C:/Users/alber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.05.20-18.04.58:444][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2022.05.20-18.04.58:444][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Pulpit/Paweł/Paweł_Sz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.20-18.04.58:444][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.20-18.04.58:444][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Pulpit/Paweł/Paweł_Sz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.20-18.04.58:444][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.20-18.04.58:463][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.20-18.04.58:476][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.20-18.04.58:476][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.20-18.04.58:476][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.20-18.04.58:531][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.05.20-18.04.58:533][  0]LogSlate: Using FreeType 2.6.0
+[2022.05.20-18.04.58:534][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.20-18.04.58:636][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2022.05.20-18.04.58:962][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.20-18.04.59:199][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.05.20-18.04.59:214][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.05.20-18.04.59:214][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.20-18.04.59:214][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.20-18.04.59:214][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.05.20-18.04.59:256][  0]LogNetVersion: Paweł_Sz 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2025946375)
+[2022.05.20-18.05.00:223][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.109830 seconds
+[2022.05.20-18.05.00:231][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2022.05.20-18.05.00:231][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2022.05.20-18.05.00:231][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.20-18.05.02:480][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.20-18.05.02:499][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.20-18.05.02:778][  0]SourceControl: Source control is disabled
+[2022.05.20-18.05.02:778][  0]SourceControl: Source control is disabled
+[2022.05.20-18.05.02:782][  0]SourceControl: Source control is disabled
+[2022.05.20-18.05.02:785][  0]SourceControl: Source control is disabled
+[2022.05.20-18.05.03:121][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.20-18.05.03:215][  0]LogOcInput: OculusInput pre-init called
+[2022.05.20-18.05.03:313][  0]LogEngine: Initializing Engine...
+[2022.05.20-18.05.03:315][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.20-18.05.03:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.05.20-18.05.03:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.05.20-18.05.03:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.05.20-18.05.03:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.05.20-18.05.03:782][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.20-18.05.03:804][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.20-18.05.03:818][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.20-18.05.04:073][  0]LogInit: FAudioDevice initialized.
+[2022.05.20-18.05.04:073][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.20-18.05.04:133][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/alber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.05.20-18.05.04:134][  0]LogInit: Texture streaming: Enabled
+[2022.05.20-18.05.04:179][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.20-18.05.04:210][  0]LogInit: Transaction tracking system initialized
+[2022.05.20-18.05.04:270][  0]BlueprintLog: New page: Editor Load
+[2022.05.20-18.05.04:470][  0]LocalizationService: Localization service is disabled
+[2022.05.20-18.05.05:017][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.05.20-18.05.05:017][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.20-18.05.05:017][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.05.20-18.05.05:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.05.20-18.05.05:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.05.20-18.05.05:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.05.20-18.05.05:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.05.20-18.05.05:296][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Paweł/Paweł_Sz/Content/' took 0.02s
+[2022.05.20-18.05.05:316][  0]SourceControl: Source control is disabled
+[2022.05.20-18.05.05:316][  0]Cmd: MAP LOAD FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.20-18.05.05:317][  0]LightingResults: New page: Lighting Build
+[2022.05.20-18.05.05:324][  0]MapCheck: New page: Map Check
+[2022.05.20-18.05.05:324][  0]LightingResults: New page: Lighting Build
+[2022.05.20-18.05.05:828][  0]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.20-18.05.05:860][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.20-18.05.05:888][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.20-18.05.06:048][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 160,088ms to complete.
+[2022.05.20-18.05.06:048][  0]LogFileHelpers: Loading map 'MainLevel' took 0.732
+[2022.05.20-18.05.06:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.05.06:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.05.06:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.05.06:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.05.06:273][  0]LogCollectionManager: Loaded 0 collections in 0.002228 seconds
+[2022.05.20-18.05.06:321][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Collections/' took 0.01s
+[2022.05.20-18.05.06:321][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Paweł/Paweł_Sz/Content/Developers/alber/Collections/' took 0.01s
+[2022.05.20-18.05.06:321][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Paweł/Paweł_Sz/Content/Collections/' took 0.01s
+[2022.05.20-18.05.06:321][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.05.20-18.05.06:333][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2572 classes and 603 folders.
+[2022.05.20-18.05.06:343][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.05.20-18.05.06:523][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.05.20-18.05.06:539][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.05.20-18.05.08:090][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.20-18.05.08:136][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.20-18.05.08:139][  0]LogSlate: Took 0.000491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.20-18.05.08:147][  0]LogSlate: Took 0.001645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.20-18.05.08:240][  0]LogTemp: IPP ERROR: Illegal character in bundle ID
+[2022.05.20-18.05.08:240][  0]LogTemp: Usage: iPhonePackager <Command> <GameName> [RPCCommand &| Switch]
+[2022.05.20-18.05.08:240][  0]LogTemp: 
+[2022.05.20-18.05.08:240][  0]LogTemp: Common commands:
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... RepackageIPA GameName
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... PackageIPA GameName
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... PackageApp GameName
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... Deploy PathToIPA
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... RepackageFromStage GameName
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... Devices
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... Validate
+[2022.05.20-18.05.08:240][  0]LogTemp:  ... Install
+[2022.05.20-18.05.08:241][  0]LogTemp: 
+[2022.05.20-18.05.08:241][  0]LogTemp: Configuration switches:
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -stagedir <path>		  sets the directory to copy staged files from (defaults to none)
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -project <path>		  path to the project being packaged
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -provisioning <uuid>	  uuid of the provisioning selected
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -compress=fast|best|none  packaging compression level (defaults to none)
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -strip					strip symbols during packaging
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -config				   game configuration (e.g., Shipping, Development, etc...)
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -distribution			 packaging for final distribution
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -codebased				   packaging a c++ code based project
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -createstub			   packaging stub IPA for later repackaging
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -mac <MacName>			overrides the machine to use for any Mac operations
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -arch <Architecture>	  sets the architecture to use (blank for default, -simulator for simulator builds)
+[2022.05.20-18.05.08:241][  0]LogTemp: 	 -device <DeviceID>		sets the device to install the IPA on
+[2022.05.20-18.05.08:241][  0]LogTemp: 
+[2022.05.20-18.05.08:241][  0]LogTemp: Commands: RPC, Clean
+[2022.05.20-18.05.08:241][  0]LogTemp:   StageMacFiles, GetIPA, Deploy, Install, Uninstall
+[2022.05.20-18.05.08:241][  0]LogTemp: 
+[2022.05.20-18.05.08:241][  0]LogTemp: RPC Commands: SetExec, InstallProvision, MakeApp, DeleteIPA, Copy, Kill, Strip, Zip, GenDSYM
+[2022.05.20-18.05.08:241][  0]LogTemp: 
+[2022.05.20-18.05.08:241][  0]LogTemp: Sample commandlines:
+[2022.05.20-18.05.08:241][  0]LogTemp:  ... iPhonePackager Deploy UDKGame Release
+[2022.05.20-18.05.08:241][  0]LogTemp:  ... iPhonePackager RPC SwordGame Shipping MakeApp
+[2022.05.20-18.05.08:241][  0]LogRenderer: Reallocating scene render targets to support 748x460 Format 10 NumSamples 1 (Frame:1).
+[2022.05.20-18.05.08:421][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.05.20-18.05.08:421][  0]LogLoad: (Engine Initialization) Total time: 17.59 seconds
+[2022.05.20-18.05.08:421][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.20-18.05.08:465][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.20-18.05.08:490][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.20-18.05.08:504][  1]LogAssetRegistry: Asset discovery search completed in 9.8905 seconds
+[2022.05.20-18.05.08:506][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.05.20-18.05.08:506][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2022.05.20-18.05.09:525][ 29]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.20-18.05.25:998][518]LogEditorViewport: Clicking on Actor (LMB): BP_Return_C (BP_Return)
+[2022.05.20-18.05.28:473][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.20-18.05.29:652][612]LogEditorViewport: Clicking Background
+[2022.05.20-18.08.37:053][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.09.20:876][746]LogAIModule: Creating AISystem for world Level_2
+[2022.05.20-18.09.20:912][746]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Level_2.Level_2
+[2022.05.20-18.09.20:951][746]Cmd: MAP LOAD FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.20-18.09.20:951][746]LightingResults: New page: Lighting Build
+[2022.05.20-18.09.20:952][746]LoadErrors: New page: Loading map: Level_2.umap
+[2022.05.20-18.09.20:954][746]MapCheck: New page: Map Check
+[2022.05.20-18.09.20:954][746]LightingResults: New page: Lighting Build
+[2022.05.20-18.09.21:073][746]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.20-18.09.21:156][746]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.20-18.09.21:344][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 188,161ms to complete.
+[2022.05.20-18.09.21:347][746]LogFileHelpers: Loading map 'Level_2' took 0.396
+[2022.05.20-18.09.22:326][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.09.22:376][767]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-18.09.22:391][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-18.09.22:391][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-18.09.22:405][767]PIE: New page: PIE session: Level_2 (20 maj 2022, 22:09:22)
+[2022.05.20-18.09.22:405][767]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_2
+[2022.05.20-18.09.22:417][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012031s)
+[2022.05.20-18.09.22:418][767]LogAIModule: Creating AISystem for world Level_2
+[2022.05.20-18.09.22:418][767]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2022.05.20-18.09.22:418][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2.Level_2 to /Game/Levels/UEDPIE_0_Level_2.Level_2 (0.013021s)
+[2022.05.20-18.09.22:455][767]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.20-18.09.22:529][767]LogInit: FAudioDevice initialized.
+[2022.05.20-18.09.22:580][767]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.20-18.09.22:587][767]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2022.05.20-20.09.22
+[2022.05.20-18.09.22:588][767]LogWorld: Bringing up level for play took: 0.004820
+[2022.05.20-18.09.22:618][767]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2022.05.20-18.09.22:621][767]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level_2 0,266
+[2022.05.20-18.09.22:622][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-18.09.47:015][498]LogNet: Browse: /Game/Levels/Level_2
+[2022.05.20-18.09.47:048][498]LogLoad: LoadMap: /Game/Levels/Level_2
+[2022.05.20-18.09.47:088][498]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_2
+[2022.05.20-18.09.47:106][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018069s)
+[2022.05.20-18.09.47:107][498]LogAIModule: Creating AISystem for world Level_2
+[2022.05.20-18.09.47:107][498]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2022.05.20-18.09.47:107][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2.Level_2 to /Game/Levels/UEDPIE_0_Level_2.Level_2 (0.019203s)
+[2022.05.20-18.09.47:107][498]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.20-18.09.47:110][498]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 60) at 2022.05.20-20.09.47
+[2022.05.20-18.09.47:111][498]LogWorld: Bringing up level for play took: 0.002170
+[2022.05.20-18.09.47:113][498]LogLoad: Took 0.065826 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level_2)
+[2022.05.20-18.10.38:824][ 50]LogBlueprintUserMessages: [BP_WinVolum_2] Ukończyłes grę!
+[2022.05.20-18.10.38:826][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.10.38:826][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-18.10.38:887][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-18.10.38:888][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-18.10.38:933][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-18.10.38:984][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.05.20-18.15.03:377][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.15.25:809][294]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Pawns/BP_PlayerPawn.BP_PlayerPawn
+[2022.05.20-18.15.26:929][294]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2022.05.20-18.15.28:041][294]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.20-18.15.28:127][295]LogSlate: Took 0.000418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.20-18.18.10:836][545]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Collectables/BP_Crystal.BP_Crystal
+[2022.05.20-18.23.14:914][301]LogRenderer: Reallocating scene render targets to support 1024x572 Format 10 NumSamples 1 (Frame:1).
+[2022.05.20-18.24.22:124][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.24.58:503][299]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Crystal.M_Crystal
+[2022.05.20-18.24.58:508][299]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.24.59:168][299]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.24.59:194][299]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.24.59:194][299]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.24.59:194][299]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.24.59:195][299]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.24.59:197][299]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.24.59:249][299]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2022.05.20-18.24.59:260][299]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2022.05.20-18.24.59:270][299]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.05.20-18.25.00:600][335]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.25.00:710][338]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.25.00:730][339]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.25.00:745][339]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.25.00:745][339]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.25.00:776][340]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.25.00:808][341]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.25.00:832][342]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.25.00:844][342]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.25.00:844][342]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.25.01:097][350]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.25.01:109][350]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.25.01:137][351]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.25.01:137][351]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.25.01:166][352]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.25.01:192][353]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.25.01:192][353]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.25.01:192][353]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.25.01:192][353]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.25.01:192][353]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.25.01:241][354]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.25.01:546][362]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.25.01:636][365]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.25.01:643][365]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.25.01:697][367]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.25.01:745][368]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-18.25.01:979][375]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.25.02:180][381]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.05.20-18.25.02:180][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.05.20-18.25.02:181][381]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2022.05.20-18.25.02:181][381]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.25.35:784][365]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.25.35:820][365]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.25.35:821][365]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.25.37:127][392]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.25.37:151][393]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.25.37:152][393]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.25.37:174][393]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.25.37:187][393]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.25.37:187][393]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.25.37:212][394]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.25.37:226][394]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-18.25.37:252][395]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.25.37:939][408]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.05.20-18.25.37:939][408]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.05.20-18.25.37:940][408]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2022.05.20-18.25.37:940][408]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.25.39:096][430]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.25.39:163][430]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.25.39:201][430]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.25.39:244][430]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.25.39:245][430]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.25.39:462][436]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.25.39:479][437]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.25.39:513][438]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.25.39:584][440]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.25.39:620][441]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.25.39:652][442]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.25.39:666][442]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.25.39:768][445]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.25.39:935][450]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.25.40:111][455]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.25.40:172][457]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.25.40:200][458]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.25.40:299][461]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.25.40:365][463]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.25.40:379][463]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.25.40:398][464]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.25.40:471][466]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.25.40:778][475]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.25.40:802][476]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-18.25.40:846][477]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.25.41:734][499]MaterialEditorStats: Base pass shader: 70 instructions
+[2022.05.20-18.25.41:734][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2022.05.20-18.25.41:734][499]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.05.20-18.25.41:734][499]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.26.05:492][143]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.05:538][143]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.26.05:579][144]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.26.06:387][158]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.06:769][168]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.06:841][168]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.06:915][169]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.26.06:916][169]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.26.06:931][170]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.26.06:935][170]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.26.06:951][171]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.26.06:965][171]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.26.06:965][171]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.26.07:020][173]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.26.07:146][175]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.26.07:196][176]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.26.07:242][177]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.26.07:280][178]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.26.07:280][178]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.26.07:313][179]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.26.07:334][180]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.26.07:366][181]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.26.07:378][181]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.26.07:399][182]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.26.07:399][182]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.26.07:902][197]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.26.07:935][198]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.26.07:952][198]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.26.08:051][201]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.26.08:079][202]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.26.08:116][203]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.26.08:136][204]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.26.08:237][207]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.26.08:285][208]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.26.08:454][211]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.26.08:525][211]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.08:589][211]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.08:661][212]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.26.08:781][216]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.26.08:819][217]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.26.08:848][218]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.26.08:848][218]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.26.08:881][219]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.26.08:948][221]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.26.08:977][222]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.26.09:016][223]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.26.09:079][225]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.26.09:097][225]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.26.09:181][228]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.26.09:213][229]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.26.09:230][229]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.26.09:250][230]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.26.09:250][230]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.26.09:294][231]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.26.09:314][232]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.26.09:496][237]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.26.09:665][242]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.26.09:766][245]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.26.09:834][247]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.26.09:897][249]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.26.09:964][251]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.26.10:061][254]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.26.10:078][254]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.26.10:163][257]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.26.10:174][257]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.26.10:229][259]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.26.10:545][268]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.26.10:638][271]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-18.26.10:679][272]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.26.11:464][292]MaterialEditorStats: Base pass shader: 70 instructions
+[2022.05.20-18.26.11:464][292]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2022.05.20-18.26.11:464][292]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.05.20-18.26.11:464][292]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.26.16:167][432]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.16:199][432]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.26.16:240][433]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.26.16:488][441]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.26.16:509][442]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.26.16:546][443]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.26.16:551][443]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.26.16:576][444]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.26.16:642][446]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.26.16:674][447]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.26.16:716][448]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.26.16:856][452]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.26.17:088][459]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.26.17:155][461]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.26.17:177][462]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.26.17:323][466]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.26.17:342][467]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.26.17:342][467]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.26.17:416][469]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.26.17:475][471]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.26.17:744][479]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.26.17:774][480]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-18.26.17:775][480]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.26.18:644][504]MaterialEditorStats: Base pass shader: 70 instructions
+[2022.05.20-18.26.18:644][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2022.05.20-18.26.18:644][504]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.05.20-18.26.18:644][504]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.26.21:089][575]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.26.21:144][576]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.26.21:345][581]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.26.21:379][582]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.26.21:427][583]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.26.21:448][584]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.26.21:470][584]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.26.21:528][585]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.26.21:545][586]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.26.21:563][587]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.26.21:868][596]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.26.21:967][599]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.26.22:063][602]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.26.22:132][604]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.26.22:197][606]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.26.22:230][607]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.26.22:280][607]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.26.22:353][609]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.26.22:396][611]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.26.22:749][620]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.26.22:803][621]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-18.26.22:823][622]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.26.23:730][647]MaterialEditorStats: Base pass shader: 70 instructions
+[2022.05.20-18.26.23:730][647]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2022.05.20-18.26.23:730][647]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.05.20-18.26.23:730][647]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.26.25:475][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.26.27:006][724]LogMaterialEditor: Applying material M_Crystal
+[2022.05.20-18.26.28:039][724]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.28:133][724]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.26.28:133][724]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.26.28:133][724]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.26.28:133][724]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.26.28:133][724]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.26.28:133][724]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.26.28:134][724]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.26.28:134][724]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.26.28:134][724]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.26.28:134][724]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.26.28:134][724]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.26.28:134][724]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.26.28:206][724]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.28:251][724]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.26.28:350][724]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crystal, compiling. 
+[2022.05.20-18.26.29:805][724]LogShaderCompilers: Display: Shaders left to compile 53
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 53
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 52
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 51
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 50
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 49
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 48
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 47
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 46
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 45
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 44
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 43
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 42
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 41
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 39
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 38
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 37
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 36
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 35
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 34
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 33
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.26.29:806][724]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.26.29:807][724]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.26.29:827][724]TextureStreamingBuild: Display: Compiling optional shaders took 1.489 seconds.
+[2022.05.20-18.26.33:691][837]MaterialEditorStats: Base pass shader: 70 instructions
+[2022.05.20-18.26.33:691][837]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2022.05.20-18.26.33:692][837]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.05.20-18.26.33:692][837]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.26.39:848][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.26.47:086][189]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_Crystal1.M_Crystal1
+[2022.05.20-18.26.47:367][189]LogRenderer: Reallocating scene render targets to support 1068x748 Format 10 NumSamples 1 (Frame:1).
+[2022.05.20-18.27.04:739][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.27.05:376][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Crystal1" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal1.uasset" SILENT=true
+[2022.05.20-18.27.05:425][838]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crystal1, compiling. 
+[2022.05.20-18.27.06:340][838]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.27.06:359][838]TextureStreamingBuild: Display: Compiling optional shaders took 0.939 seconds.
+[2022.05.20-18.27.06:412][838]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/M_Crystal183E9798B4A41D8C90483C9A68F13DBD7.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal1.uasset'
+[2022.05.20-18.27.10:532][968]Cmd: TRANSACTION UNDO
+[2022.05.20-18.27.10:532][968]LogEditorTransaction: Undo Edit Emisssive
+[2022.05.20-18.27.10:564][968]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-18.27.10:646][968]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-18.27.10:647][968]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-18.27.10:647][968]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-18.27.10:647][968]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-18.27.10:647][968]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-18.27.10:821][971]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-18.27.11:233][981]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-18.27.11:738][990]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-18.27.11:953][992]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-18.27.11:970][992]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-18.27.12:012][993]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-18.27.12:037][994]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-18.27.12:066][995]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-18.27.12:075][995]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-18.27.12:138][996]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-18.27.12:323][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-18.27.12:479][  3]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-18.27.12:549][  4]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-18.27.12:579][  5]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-18.27.12:692][  7]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-18.27.12:737][  8]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-18.27.12:892][ 11]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-18.27.13:085][ 13]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-18.27.13:085][ 13]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-18.27.13:197][ 16]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.27.13:963][ 35]MaterialEditorStats: Base pass shader: 70 instructions
+[2022.05.20-18.27.13:963][ 35]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2022.05.20-18.27.13:963][ 35]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.05.20-18.27.13:963][ 35]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-18.27.16:302][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-18.27.16:519][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_2" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/Level_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.20-18.27.16:904][104]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Level_2B40F1CFE4B9823ECA98F5BBFC2DA058E.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/Level_2.umap'
+[2022.05.20-18.27.16:937][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_2_BuiltData" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/Level_2_BuiltData.uasset" SILENT=true
+[2022.05.20-18.27.17:067][104]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Level_2_BuiltData1C84DB3048E3EFF42A390DB3C4DAE8AC.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/Level_2_BuiltData.uasset'
+[2022.05.20-18.37.16:653][297]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level_2' took 0.047
+[2022.05.20-18.37.16:658][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Collectables/BP_Crystal] ([1] browsable assets)...
+[2022.05.20-18.37.16:737][297]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Collectables/BP_Crystal.BP_Crystal]
+[2022.05.20-18.37.16:737][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Collectables/BP_Crystal]
+[2022.05.20-18.37.16:851][297]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/BP_Crystal_Auto10C5074F04C4181734CD158B72EBE7372.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Blueprints/Actors/Collectables/BP_Crystal_Auto1.uasset'
+[2022.05.20-18.37.16:858][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Crystal1] ([1] browsable assets)...
+[2022.05.20-18.37.16:923][297]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_Crystal1.M_Crystal1]
+[2022.05.20-18.37.16:923][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Crystal1]
+[2022.05.20-18.37.16:923][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Crystal1" FILE="D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Materials/M_Crystal1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.20-18.37.16:982][297]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crystal1, compiling. 
+[2022.05.20-18.37.17:973][297]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-18.37.18:011][297]TextureStreamingBuild: Display: Compiling optional shaders took 1.036 seconds.
+[2022.05.20-18.37.18:067][297]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/M_Crystal1_Auto1E9C99D4B4ED542907E5AEB838DE3F48C.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Materials/M_Crystal1_Auto1.uasset'
+[2022.05.20-18.37.18:071][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Crystal] ([1] browsable assets)...
+[2022.05.20-18.37.18:102][297]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Crystal.M_Crystal]
+[2022.05.20-18.37.18:102][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Crystal]
+[2022.05.20-18.37.18:102][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Crystal" FILE="D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Materials/M_Crystal_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.20-18.37.18:151][297]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/M_Crystal_Auto11EF3042F4D59CB7868A1BEA722B79B56.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Materials/M_Crystal_Auto1.uasset'
+[2022.05.20-18.37.18:154][297]LogFileHelpers: Auto-saving content packages took 1.499
+[2022.05.20-19.09.22:517][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.11.12:267][218]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_Bullet.BP_Bullet
+[2022.05.20-19.11.23:483][482]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/ML_Actors.ML_Actors
+[2022.05.20-19.13.24:563][937]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-19.13.24:592][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-19.13.24:592][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-19.13.24:593][937]PIE: New page: PIE session: Level_2 (20 maj 2022, 23:13:24)
+[2022.05.20-19.13.24:593][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_2
+[2022.05.20-19.13.24:616][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022164s)
+[2022.05.20-19.13.24:617][937]LogAIModule: Creating AISystem for world Level_2
+[2022.05.20-19.13.24:618][937]LogPlayLevel: PIE: World Init took: (0.002075s)
+[2022.05.20-19.13.24:618][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_2.Level_2 to /Game/Levels/UEDPIE_0_Level_2.Level_2 (0.024865s)
+[2022.05.20-19.13.24:682][937]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.20-19.13.24:732][937]LogInit: FAudioDevice initialized.
+[2022.05.20-19.13.24:756][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-19.13.24:847][937]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.20-19.13.24:853][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_2.Level_2 up for play (max tick rate 0) at 2022.05.20-21.13.24
+[2022.05.20-19.13.24:853][937]LogWorld: Bringing up level for play took: 0.004516
+[2022.05.20-19.13.24:874][937]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level_2 0,519
+[2022.05.20-19.13.24:892][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-19.13.28:899][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-19.13.28:900][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-19.13.28:935][ 17]LogSlate: Window 'Paweł_Sz Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.05.20-19.13.29:006][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-19.13.29:006][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level_2.Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2' with GeneratedClass '/Game/Levels/Level_2.Level_C' with ClassGeneratedBy '/Game/Levels/Level_2.Level_2:PersistentLevel.Level_2'
+[2022.05.20-19.13.29:066][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.20-19.14.23:779][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.14.28:167][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.14.32:879][469]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.20-19.14.32:943][469]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2022.05.20-19.14.34:252][469]LogSlate: Window 'Save Content' being destroyed
+[2022.05.20-19.14.34:270][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/Collectables/BP_Crystal" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/Collectables/BP_Crystal.uasset" SILENT=true
+[2022.05.20-19.14.34:352][469]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/BP_Crystal272926D44EDA145BF2425CA034F03DA0.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/Collectables/BP_Crystal.uasset'
+[2022.05.20-19.14.34:358][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Crystal" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal.uasset" SILENT=true
+[2022.05.20-19.14.34:375][469]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/M_CrystalFCC4ABD641F6B5D729254485A0A30BEF.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal.uasset'
+[2022.05.20-19.14.34:380][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Crystal1" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal1.uasset" SILENT=true
+[2022.05.20-19.14.34:426][469]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crystal1, compiling. 
+[2022.05.20-19.14.35:361][469]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-19.14.35:385][469]TextureStreamingBuild: Display: Compiling optional shaders took 0.963 seconds.
+[2022.05.20-19.14.35:433][469]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/M_Crystal1892670CE456798A21D073A9D68A9E8C7.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal1.uasset'
+[2022.05.20-19.14.35:441][469]Cmd: MAP LOAD FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.20-19.14.35:441][469]LightingResults: New page: Lighting Build
+[2022.05.20-19.14.35:442][469]LoadErrors: New page: Loading map: MainLevel.umap
+[2022.05.20-19.14.35:444][469]MapCheck: New page: Map Check
+[2022.05.20-19.14.35:444][469]LightingResults: New page: Lighting Build
+[2022.05.20-19.14.35:651][469]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.20-19.14.35:712][469]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.20-19.14.35:933][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 220,123ms to complete.
+[2022.05.20-19.14.35:939][469]LogFileHelpers: Loading map 'MainLevel' took 0.501
+[2022.05.20-19.14.36:959][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls)
+[2022.05.20-19.18.18:843][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.18.26:867][ 86]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Mesh/Walls.Walls
+[2022.05.20-19.18.32:533][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.18.33:436][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls)
+[2022.05.20-19.19.44:748][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.19.46:486][420]LogRenderer: Reallocating scene render targets to support 1232x748 Format 10 NumSamples 1 (Frame:2394).
+[2022.05.20-19.19.56:247][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.38.10:055][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-19.38.14:994][145]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Actors/BP_Cannon.BP_Cannon
+[2022.05.20-20.00.09:036][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Cannon" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/BP_Cannon.uasset" SILENT=true
+[2022.05.20-20.00.09:120][305]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/BP_Cannon650CD43842463D68A4E5C1B97846A888.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/BP_Cannon.uasset'
+[2022.05.20-20.00.18:233][782]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (BP_Cannon5)
+[2022.05.20-20.00.21:751][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-20.00.31:090][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-20.00.36:448][262]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-20.00.36:477][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.00.36:477][262]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.20-20.00.36:487][262]LogPlayLevel: [PlayLevel] Compiling BP_Cannon before play...
+[2022.05.20-20.00.36:862][262]LogPlayLevel: PlayLevel: Blueprint regeneration took 384 ms (1 blueprints)
+[2022.05.20-20.00.36:862][262]PIE: New page: PIE session: MainLevel (21 maj 2022, 00:00:36)
+[2022.05.20-20.00.36:862][262]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.05.20-20.00.36:880][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017436s)
+[2022.05.20-20.00.36:881][262]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.20-20.00.36:882][262]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2022.05.20-20.00.36:882][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.018948s)
+[2022.05.20-20.00.36:935][262]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.20-20.00.36:998][262]LogInit: FAudioDevice initialized.
+[2022.05.20-20.00.37:015][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.00.37:097][262]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.20-20.00.37:106][262]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.05.20-22.00.37
+[2022.05.20-20.00.37:108][262]LogWorld: Bringing up level for play took: 0.008072
+[2022.05.20-20.00.37:128][262]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,773
+[2022.05.20-20.00.37:129][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.00.44:227][402]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.00.44:228][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.00.44:256][402]LogSlate: Window 'Paweł_Sz Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.05.20-20.00.44:332][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-20.00.44:333][402]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.00.44:427][403]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.20-20.01.11:721][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.20-20.01.12:008][125]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/MainLevel_Auto2539CED4044F4B79A6A8CE88888566785.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2022.05.20-20.01.12:013][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.343
+[2022.05.20-20.01.12:013][125]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.343
+[2022.05.20-20.01.12:050][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/BP_Cannon] ([1] browsable assets)...
+[2022.05.20-20.01.12:113][125]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Cannon.BP_Cannon]
+[2022.05.20-20.01.12:113][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Cannon]
+[2022.05.20-20.01.12:113][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Cannon" FILE="D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.05.20-20.01.12:156][125]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/BP_Cannon_Auto2133861BC4035525BA631488B0201D655.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_Auto2.uasset'
+[2022.05.20-20.01.12:157][125]LogFileHelpers: Auto-saving content packages took 0.109
+[2022.05.20-20.02.02:909][607]BlueprintLog: New page: Compile BP_Cannon
+[2022.05.20-20.02.26:164][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-20.02.32:999][ 95]LogSlate: Window 'Message' being destroyed
+[2022.05.20-20.02.52:610][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-20.02.54:980][736]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-20.02.55:037][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.02.55:037][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-20.02.55:037][736]PIE: New page: PIE session: MainLevel (21 maj 2022, 00:02:55)
+[2022.05.20-20.02.55:037][736]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.05.20-20.02.55:060][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022246s)
+[2022.05.20-20.02.55:060][736]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.20-20.02.55:060][736]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.05.20-20.02.55:061][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.023575s)
+[2022.05.20-20.02.55:126][736]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.20-20.02.55:195][736]LogInit: FAudioDevice initialized.
+[2022.05.20-20.02.55:234][736]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.20-20.02.55:242][736]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.05.20-22.02.55
+[2022.05.20-20.02.55:243][736]LogWorld: Bringing up level for play took: 0.007327
+[2022.05.20-20.02.55:259][736]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,904
+[2022.05.20-20.02.55:260][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.03.17:912][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.03.17:912][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.03.17:989][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-20.03.17:990][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.03.18:058][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.03.18:105][416]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.05.20-20.03.19:722][462]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (BP_Cannon2)
+[2022.05.20-20.03.26:839][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-20.03.45:358][237]BlueprintLog: New page: Compile BP_Cannon
+[2022.05.20-20.03.46:370][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Cannon" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/BP_Cannon.uasset" SILENT=true
+[2022.05.20-20.03.46:451][245]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/BP_Cannon40E12A48464ADFA2F6F49AA74C08272C.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/BP_Cannon.uasset'
+[2022.05.20-20.04.11:741][293]BlueprintLog: New page: Compile BP_Cannon
+[2022.05.20-20.04.15:666][395]Cmd: TRANSACTION UNDO
+[2022.05.20-20.04.15:666][395]LogEditorTransaction: Undo Edit Projectitle Scale
+[2022.05.20-20.04.15:706][395]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-20.04.15:876][395]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-20.04.15:877][395]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-20.04.16:468][401]Cmd: TRANSACTION UNDO
+[2022.05.20-20.04.16:468][401]LogEditorTransaction: Undo Edit Wait Before Shot
+[2022.05.20-20.04.16:555][401]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-20.04.17:230][406]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-20.04.17:260][407]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-20.04.17:264][407]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-20.04.17:297][407]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-20.04.17:333][408]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-20.04.17:346][408]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-20.04.17:363][408]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-20.04.17:424][409]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-20.04.17:571][411]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-20.04.17:608][412]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-20.04.17:608][412]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-20.04.17:677][413]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-20.04.17:701][413]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.05.20-20.04.17:748][414]LogShaderCompilers: Display: Shaders left to compile 19
+[2022.05.20-20.04.17:748][414]LogShaderCompilers: Display: Shaders left to compile 18
+[2022.05.20-20.04.17:773][414]LogShaderCompilers: Display: Shaders left to compile 17
+[2022.05.20-20.04.17:810][415]LogShaderCompilers: Display: Shaders left to compile 16
+[2022.05.20-20.04.17:813][415]LogShaderCompilers: Display: Shaders left to compile 15
+[2022.05.20-20.04.17:918][416]LogShaderCompilers: Display: Shaders left to compile 14
+[2022.05.20-20.04.18:371][425]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-20.04.18:474][427]LogShaderCompilers: Display: Shaders left to compile 12
+[2022.05.20-20.04.18:577][428]LogShaderCompilers: Display: Shaders left to compile 11
+[2022.05.20-20.04.18:608][429]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.05.20-20.04.18:642][430]LogShaderCompilers: Display: Shaders left to compile 9
+[2022.05.20-20.04.18:649][430]LogShaderCompilers: Display: Shaders left to compile 8
+[2022.05.20-20.04.18:697][431]LogShaderCompilers: Display: Shaders left to compile 7
+[2022.05.20-20.04.18:765][432]LogShaderCompilers: Display: Shaders left to compile 6
+[2022.05.20-20.04.18:797][433]LogShaderCompilers: Display: Shaders left to compile 5
+[2022.05.20-20.04.19:003][437]LogShaderCompilers: Display: Shaders left to compile 4
+[2022.05.20-20.04.19:323][443]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-20.04.19:378][444]LogShaderCompilers: Display: Shaders left to compile 2
+[2022.05.20-20.04.19:465][445]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-20.04.20:512][471]MaterialEditorStats: Base pass shader: 70 instructions
+[2022.05.20-20.04.20:512][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2022.05.20-20.04.20:512][471]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.05.20-20.04.20:512][471]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-20.04.23:184][545]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-20.04.23:223][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.04.23:223][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-20.04.23:223][545]PIE: New page: PIE session: MainLevel (21 maj 2022, 00:04:23)
+[2022.05.20-20.04.23:223][545]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.05.20-20.04.23:250][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026306s)
+[2022.05.20-20.04.23:251][545]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.20-20.04.23:251][545]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2022.05.20-20.04.23:251][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.028187s)
+[2022.05.20-20.04.23:321][545]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.20-20.04.23:399][545]LogInit: FAudioDevice initialized.
+[2022.05.20-20.04.23:437][545]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.20-20.04.23:444][545]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.05.20-22.04.23
+[2022.05.20-20.04.23:445][545]LogWorld: Bringing up level for play took: 0.005952
+[2022.05.20-20.04.23:461][545]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 1,105
+[2022.05.20-20.04.23:461][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.04.49:733][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.04.49:734][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.04.49:809][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-20.04.49:810][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.04.49:881][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.04.49:927][333]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.20-20.04.51:801][389]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (BP_Cannon2)
+[2022.05.20-20.04.53:613][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-20.04.59:336][570]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_C (BP_Cannon2)
+[2022.05.20-20.05.05:383][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.05.20-20.05.05:600][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.20-20.05.06:087][746]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/MainLevelE21473E74BA5157C0DCC7B82CACBD4E6.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/MainLevel.umap'
+[2022.05.20-20.05.06:130][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2022.05.20-20.05.06:212][746]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/MainLevel_BuiltData02B28F48466D46D48009BCBD75D873F1.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Levels/MainLevel_BuiltData.uasset'
+[2022.05.20-20.05.12:438][926]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.20-20.05.12:479][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.05.12:479][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-20.05.12:480][926]PIE: New page: PIE session: MainLevel (21 maj 2022, 00:05:12)
+[2022.05.20-20.05.12:480][926]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.05.20-20.05.12:508][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028302s)
+[2022.05.20-20.05.12:509][926]LogAIModule: Creating AISystem for world MainLevel
+[2022.05.20-20.05.12:509][926]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2022.05.20-20.05.12:510][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.029676s)
+[2022.05.20-20.05.12:576][926]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.05.20-20.05.12:653][926]LogInit: FAudioDevice initialized.
+[2022.05.20-20.05.12:692][926]LogLoad: Game class is 'BP_GameMode_C'
+[2022.05.20-20.05.12:699][926]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2022.05.20-22.05.12
+[2022.05.20-20.05.12:701][926]LogWorld: Bringing up level for play took: 0.005810
+[2022.05.20-20.05.12:716][926]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainLevel 0,361
+[2022.05.20-20.05.12:716][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.06.50:473][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.06.50:473][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.06.50:553][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-20.06.50:554][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/Levels/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/Levels/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2022.05.20-20.06.50:622][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-20.06.50:678][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.05.20-20.06.50:683][859]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.20-20.06.50:741][859]LogSlate: Took 0.001347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.20-20.09.29:276][377]LogSlate: Window 'Message' being destroyed
+[2022.05.20-20.09.31:121][377]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 32
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 31
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 29
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 28
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 27
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 26
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 25
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 24
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 22
+[2022.05.20-20.09.31:287][377]LogShaderCompilers: Display: Shaders left to compile 21
+[2022.05.20-20.09.31:367][377]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-20.09.31:443][377]LogMaterial: Display: Missing cached shader map for material M_Crystal, compiling. 
+[2022.05.20-20.09.31:661][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crystal, compiling. 
+[2022.05.20-20.09.34:265][377]LogShaderCompilers: Display: Shaders left to compile 54
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 53
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 52
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 51
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 50
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 49
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 48
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 47
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 46
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 45
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 44
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 43
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 42
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 41
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 39
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 38
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 37
+[2022.05.20-20.09.34:266][377]LogShaderCompilers: Display: Shaders left to compile 36
+[2022.05.20-20.09.34:267][377]LogShaderCompilers: Display: Shaders left to compile 35
+[2022.05.20-20.09.34:267][377]LogShaderCompilers: Display: Shaders left to compile 34
+[2022.05.20-20.09.34:267][377]LogShaderCompilers: Display: Shaders left to compile 33
+[2022.05.20-20.09.34:267][377]LogShaderCompilers: Display: Shaders left to compile 23
+[2022.05.20-20.09.34:267][377]LogShaderCompilers: Display: Shaders left to compile 13
+[2022.05.20-20.09.34:267][377]LogShaderCompilers: Display: Shaders left to compile 3
+[2022.05.20-20.09.34:288][377]TextureStreamingBuild: Display: Compiling optional shaders took 2.640 seconds.
+[2022.05.20-20.09.36:195][377]LogSlate: Window 'Save Content' being destroyed
+[2022.05.20-20.09.36:352][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Cannon" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/BP_Cannon.uasset" SILENT=true
+[2022.05.20-20.09.36:425][377]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/BP_CannonC35715764E644659E9D9C48F5EBBD057.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Blueprints/Actors/BP_Cannon.uasset'
+[2022.05.20-20.09.40:322][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Crystal" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal.uasset" SILENT=true
+[2022.05.20-20.09.40:368][377]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/M_Crystal0CC96B6D48978AFB67E44D9AD75BECDE.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal.uasset'
+[2022.05.20-20.09.40:432][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Crystal1" FILE="D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal1.uasset" SILENT=true
+[2022.05.20-20.09.40:505][377]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Crystal1, compiling. 
+[2022.05.20-20.09.40:768][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2022.05.20-20.09.40:787][377]TextureStreamingBuild: Display: Compiling optional shaders took 0.290 seconds.
+[2022.05.20-20.09.40:869][377]LogSavePackage: Moving 'D:/Pulpit/Paweł/Paweł_Sz/Saved/M_Crystal15D77E5974E25CB2455C1D08D7166A027.tmp' to 'D:/Pulpit/Paweł/Paweł_Sz/Content/Materials/M_Crystal1.uasset'
+[2022.05.20-20.09.41:233][377]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.20-20.09.41:695][377]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.20-20.09.42:272][377]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.20-20.09.42:351][377]LogSlate: Window 'Paweł_Sz - Unreal Editor' being destroyed
+[2022.05.20-20.09.42:885][378]Cmd: QUIT_EDITOR
+[2022.05.20-20.09.43:884][378]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.05.20-20.09.43:908][378]LogExit: Preparing to exit.
+[2022.05.20-20.09.44:608][378]LogExit: Editor shut down
+[2022.05.20-20.09.44:611][378]LogExit: Transaction tracking system shut down
+[2022.05.20-20.09.45:243][378]LogExit: Object subsystem successfully closed.
+[2022.05.20-20.09.45:321][378]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.20-20.09.45:324][378]LogD3D11RHI: Shutdown
+[2022.05.20-20.09.45:324][378]LogD3D11RHI: CleanupD3DDevice
+[2022.05.20-20.09.45:343][378]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.05.20-20.09.45:407][378]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (620)
+[2022.05.20-20.09.45:408][378]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2022.05.20-20.09.45:408][378]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2022.05.20-20.09.45:408][378]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2022.05.20-20.09.45:408][378]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2022.05.20-20.09.45:408][378]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (610)
+[2022.05.20-20.09.45:408][378]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2022.05.20-20.09.45:408][378]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2022.05.20-20.09.45:412][378]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2022.05.20-20.09.45:412][378]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2022.05.20-20.09.45:412][378]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2022.05.20-20.09.45:412][378]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2022.05.20-20.09.45:412][378]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2022.05.20-20.09.45:412][378]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2022.05.20-20.09.45:413][378]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2022.05.20-20.09.45:414][378]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2022.05.20-20.09.45:415][378]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2022.05.20-20.09.45:415][378]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2022.05.20-20.09.45:415][378]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2022.05.20-20.09.45:415][378]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2022.05.20-20.09.45:415][378]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2022.05.20-20.09.45:415][378]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2022.05.20-20.09.45:415][378]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2022.05.20-20.09.45:691][378]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2022.05.20-20.09.45:691][378]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2022.05.20-20.09.45:691][378]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2022.05.20-20.09.45:692][378]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2022.05.20-20.09.45:693][378]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2022.05.20-20.09.45:693][378]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2022.05.20-20.09.45:693][378]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2022.05.20-20.09.45:693][378]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2022.05.20-20.09.45:693][378]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2022.05.20-20.09.45:694][378]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2022.05.20-20.09.45:694][378]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2022.05.20-20.09.45:738][378]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2022.05.20-20.09.45:738][378]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2022.05.20-20.09.45:738][378]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2022.05.20-20.09.45:738][378]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2022.05.20-20.09.45:738][378]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2022.05.20-20.09.45:739][378]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2022.05.20-20.09.45:739][378]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2022.05.20-20.09.45:739][378]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2022.05.20-20.09.45:739][378]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2022.05.20-20.09.45:739][378]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2022.05.20-20.09.45:750][378]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2022.05.20-20.09.45:751][378]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2022.05.20-20.09.45:843][378]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2022.05.20-20.09.45:844][378]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2022.05.20-20.09.45:854][378]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2022.05.20-20.09.45:855][378]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2022.05.20-20.09.45:855][378]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2022.05.20-20.09.45:855][378]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2022.05.20-20.09.45:855][378]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2022.05.20-20.09.45:856][378]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2022.05.20-20.09.45:857][378]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2022.05.20-20.09.45:858][378]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2022.05.20-20.09.45:858][378]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2022.05.20-20.09.45:959][378]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2022.05.20-20.09.46:059][378]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2022.05.20-20.09.46:059][378]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2022.05.20-20.09.46:059][378]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2022.05.20-20.09.46:059][378]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2022.05.20-20.09.46:059][378]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2022.05.20-20.09.46:059][378]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2022.05.20-20.09.46:059][378]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2022.05.20-20.09.46:063][378]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2022.05.20-20.09.46:063][378]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2022.05.20-20.09.46:064][378]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2022.05.20-20.09.46:064][378]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2022.05.20-20.09.46:066][378]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2022.05.20-20.09.46:072][378]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2022.05.20-20.09.46:072][378]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2022.05.20-20.09.46:072][378]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2022.05.20-20.09.46:072][378]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2022.05.20-20.09.46:072][378]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2022.05.20-20.09.46:073][378]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2022.05.20-20.09.46:076][378]LogModuleManager: Shutting down and abandoning module Media (243)
+[2022.05.20-20.09.46:083][378]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2022.05.20-20.09.46:083][378]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2022.05.20-20.09.46:084][378]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2022.05.20-20.09.46:085][378]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2022.05.20-20.09.46:085][378]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2022.05.20-20.09.46:085][378]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2022.05.20-20.09.46:085][378]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2022.05.20-20.09.46:085][378]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2022.05.20-20.09.46:085][378]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2022.05.20-20.09.46:092][378]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2022.05.20-20.09.46:092][378]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2022.05.20-20.09.46:092][378]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2022.05.20-20.09.46:092][378]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module Core (188)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2022.05.20-20.09.46:093][378]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2022.05.20-20.09.46:094][378]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2022.05.20-20.09.46:143][378]LogDerivedDataCache: Shutdown
+[2022.05.20-20.09.46:143][378]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2022.05.20-20.09.46:143][378]LogXGEController: Cleaning working directory: C:/Users/alber/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2022.05.20-20.09.46:145][378]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2022.05.20-20.09.46:146][378]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2022.05.20-20.09.46:157][378]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2022.05.20-20.09.46:157][378]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2022.05.20-20.09.46:166][378]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2022.05.20-20.09.46:166][378]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2022.05.20-20.09.46:231][378]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2022.05.20-20.09.46:232][378]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2022.05.20-20.09.46:232][378]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2022.05.20-20.09.46:232][378]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2022.05.20-20.09.46:232][378]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2022.05.20-20.09.46:232][378]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.05.20-20.09.46:232][378]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2022.05.20-20.09.46:232][378]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2022.05.20-20.09.46:234][378]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2022.05.20-20.09.46:234][378]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2022.05.20-20.09.46:260][378]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2022.05.20-20.09.46:261][378]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.20-20.09.46:261][378]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B236E5B70-43FB-B188-9659-A2A9CC2EC04A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=14052f274036926d9066c6afb1f532b8%7Ca1826255014c428f9476c187b12af62c%7C5fafe5cd-b8f9-4d20-bdd7-d1c2193e8c68&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.05.20-20.09.46:274][378]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2022.05.20-20.09.46:280][378]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2022.05.20-20.09.46:281][378]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.20-20.09.46:282][378]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2022.05.20-20.09.46:282][378]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2022.05.20-20.09.46:282][378]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.05.20-20.09.46:282][378]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.20-20.09.46:282][378]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2022.05.20-20.09.46:283][378]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2022.05.20-20.09.46:283][378]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2022.05.20-20.09.46:283][378]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2022.05.20-20.09.46:288][378]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2022.05.20-20.09.46:325][378]LogExit: Exiting.
+[2022.05.20-20.09.46:357][378]Log file closed, 05/20/22 22:09:46
